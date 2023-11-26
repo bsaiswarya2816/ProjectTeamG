@@ -18,5 +18,14 @@ public class Team1 {
 		System.out.println("This is VolleyBall");
 
 	}
+	private void hockey() {
+		System.out.println("This is Hockey");
+
+	}
+	private void cricket() {
+		System.out.println("This is Cricket");
+
+	}
+	
 
 }

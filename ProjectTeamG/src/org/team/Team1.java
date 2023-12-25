@@ -26,8 +26,8 @@ public class Team1 {
 		System.out.println("This is Cricket");
 
 	}
-	private void proLevel() {
-		System.out.println("Pro-Level");
+	private void manchester() {
+		System.out.println("Manchester");
 
 	}
 	
